@@ -1,0 +1,17 @@
+Table info
+	Columns
+	id, type, cacao_solids_percent, sugar_percent, dairy, vanilla;
+
+	Data
+	1, unsweetened chocolate, 100, 0, N, N;
+	2, dark chocolate, 71, 29, N, N;
+	3, bittersweet chocolate, 70, 30, N, N;
+	4, semi-sweet chocolate, 60, 40, N, N;
+	5, milk chocolate, 40, 60, Y, Y;
+	6, white chocolate, 0, 20, Y, Y;
+
+	Insert
+	7, cacoa powder, 100, 0, N, N;
+
+	Update
+	5, milk chocolate, 10, 90, Y, Y;
